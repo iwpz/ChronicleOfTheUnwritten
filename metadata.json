@@ -1,0 +1,6 @@
+{
+  "name": "Chronicle of the Unwritten",
+  "description": "An infinite choose-your-own-adventure engine with genuine causal plot branching, persistent character visual DNA, real-time Gemini 3 Pro scene illustration (1K/2K/4K), automated inventory and quest tracking, and a multi-turn Lore Oracle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
